@@ -9,9 +9,10 @@ raw data.
 ---
 #### Model Results Summary
 1. Provide an overview and summary of the results obtained from the developed models.
-Model Validation
-2. Briefly explain the model validation process.
-3. Justify the choice of metrics or validation process used, highlighting their relevance and effectiveness.
+
+#### Model Validation
+1. Briefly explain the model validation process.
+2. Justify the choice of metrics or validation process used, highlighting their relevance and effectiveness.
 
 ---
 
