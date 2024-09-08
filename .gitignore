@@ -2,3 +2,5 @@
 src/.ipynb_checkpoints
 *.bat
 pat.txt
+*.Rproj
+*transfromed*.csv
