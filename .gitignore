@@ -4,3 +4,5 @@ src/.ipynb_checkpoints
 pat.txt
 *.Rproj
 *transfromed*.csv
+rshiny
+src/Unti*
